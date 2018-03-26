@@ -1,1 +1,128 @@
-html,body{margin:0;padding:0}html{font-family:'Inconsolata',Courier,monospace;font-size:14px;line-height:1.5}body{color:#444;background-color:#fff}a{color:#188784;text-decoration:none}a:hover,a:focus{text-decoration:underline}a.icon:hover,a.icon:focus{text-decoration:none}h1,h2,h3,h4,h5,h6{margin-bottom:.5rem;font-weight:bold;line-height:1.25;color:#313131;text-rendering:optimizeLegibility}h1{font-size:1.75rem}h2{margin-top:1rem;font-size:1.5rem}h3{margin-top:1.5rem;font-size:1.25rem}h4,h5,h6{margin-top:1rem;font-size:1rem}p{margin-top:0;margin-bottom:1rem}code{font-family:'Inconsolata',Courier,monospace;padding:.25em .5em;color:#c7254e;background-color:#f9f2f4}code a{color:#c7254e}.container{max-width:40rem;padding-left:2rem;padding-right:2rem;margin-left:auto;margin-right:auto}header{text-align:center;padding-top:1rem;padding-bottom:1rem}header .title{margin:0}header .title a{color:#444}header .nav{font-size:90%;margin-top:.5rem}header .nav a{color:#444;margin-left:.25rem;margin-right:.25rem}main{margin:2em 0}footer{text-align:center;color:#999;margin-bottom:1em}.resume .section{padding-bottom:.1rem}.resume .download{float:right;width:10px;height:10px}.resume .download a{color:#444}.resume .item{margin-top:1.25em}.resume .item .logo{float:left;width:3rem}.resume .logo img{height:auto;display:block;max-width:100%;margin:0 0 1rem}.resume .item .body{margin-left:4rem}.resume .item .body .duration{color:#666}.resume .item .body .details{padding-top:1rem}.resume .item .body .details ul{padding-left:1em}.resume .item .body .details li{margin-bottom:.5rem;list-style-type:disc}.error{text-align:center}
+html,body{
+  margin:0;
+  padding:0
+  }
+  html{
+    font-family:'Inconsolata',Courier,monospace;
+    font-size:14px;
+    line-height:1.5
+    }
+  body{
+    color:#444;
+    background-color:#fff
+    }
+  a{
+    color:#188784;
+    text-decoration:none
+    }
+  a:hover,a:focus{
+    text-decoration:underline
+    }
+  a.icon:hover,a.icon:focus{
+    text-decoration:none
+    }
+  h1,h2,h3,h4,h5,h6{
+    margin-bottom:.5rem;
+    font-weight:bold;
+    line-height:1.25;
+    color:#313131;
+    text-rendering:optimizeLegibility
+    }
+    h1{
+      font-size:1.75rem
+      }
+    h2{
+      margin-top:1rem;
+      font-size:1.5rem
+      }
+    h3{
+      margin-top:1.5rem;
+      font-size:1.25rem
+      }
+    h4,h5,h6{
+      margin-top:1rem;
+      font-size:1rem
+      }
+    p{
+      margin-top:0;
+      margin-bottom:1rem
+      }
+    code{
+      font-family:'Inconsolata',Courier,monospace;
+      padding:.25em .5em;
+      color:#c7254e;
+      background-color:#f9f2f4
+      }
+    code a{
+      color:#c7254e
+      }
+    .container{
+      max-width:40rem;
+      padding-left:2rem;
+      padding-right:2rem;
+      margin-left:auto;
+      margin-right:auto}
+    header{
+      text-align:center;
+      padding-top:1rem;
+      padding-bottom:1rem}
+    header .title{
+      margin:0
+      }
+    header .title a{
+      color:#444
+      }
+    header .nav{
+      font-size:90%;
+      margin-top:.5rem
+      }
+    header .nav a{
+      color:#444;
+      margin-left:.25rem;
+      margin-right:.25rem
+      }
+    main{
+      margin:2em 0
+      }
+    .resume .section{
+      padding-bottom:.1rem
+      }
+    .resume .download{
+      float:right;
+      width:10px;
+      height:10px
+      }
+    .resume .download a{
+      color:#444
+      }
+    .resume .item{
+      margin-top:1.25em
+      }
+    .resume .item .logo{
+      float:left;width:3rem
+      }
+    .resume .logo img{
+      height:1.25rem;
+      display:block;
+      max-width:100%;
+      margin:0 0 1rem
+      }
+    .resume .item .body{
+      margin-left:4rem
+      }
+    .resume .item .body .duration{
+      color:#666
+      }
+    .resume .item .body .details{
+      padding-top:1rem
+      }
+    .resume .item .body .details ul{
+      padding-left:1em
+      }
+    .resume .item .body .details li{
+      margin-bottom:.5rem;
+      list-style-type:disc
+      }
+      .error{
+        text-align:center
+      }
