@@ -8,11 +8,11 @@ html,body{
     line-height:1.5
     }
   body{
-    color:#444;
-    background-color:#fff
+    color:#FFF4D8;
+    background-color:#B79EC1;
     }
   a{
-    color:#188784;
+    color:white;
     text-decoration:none
     }
   a:hover,a:focus{
@@ -25,7 +25,7 @@ html,body{
     margin-bottom:.5rem;
     font-weight:bold;
     line-height:1.25;
-    color:#313131;
+    color:black;
     text-rendering:optimizeLegibility
     }
     h1{
@@ -34,6 +34,7 @@ html,body{
     h2{
       margin-top:1rem;
       font-size:1.5rem
+      color:black
       }
     h3{
       margin-top:1.5rem;
@@ -46,6 +47,7 @@ html,body{
     p{
       margin-top:0;
       margin-bottom:1rem
+
       }
     code{
       font-family:'Inconsolata',Courier,monospace;
@@ -70,7 +72,7 @@ html,body{
       margin:0
       }
     header .title a{
-      color:#444
+      color:black
       }
     header .nav{
       font-size:90%;
@@ -83,9 +85,11 @@ html,body{
       }
     main{
       margin:2em 0
+
       }
     .resume .section{
       padding-bottom:.1rem
+      color:black
       }
     .resume .download{
       float:right;
