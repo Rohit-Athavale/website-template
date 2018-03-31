@@ -130,3 +130,9 @@ html,body{
       .error{
         text-align:center
       }
+    .blog .section p{
+       padding-top:1rem
+      }
+    .blog .section a{
+      padding-top:1rem
+      }
