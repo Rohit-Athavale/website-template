@@ -7,6 +7,9 @@ html,body{
     font-size:14px;
     line-height:1.5
     }
+  title{
+    content:none
+    }
   body{
     color:#FFF4D8;
     background-color:#B79EC1;
