@@ -14,16 +14,16 @@ html,body{
     color:#FFF4D8;
     background-color:#B79EC1;
     }
+  /* Links */
   a{
     color:white;
     text-decoration:none
     }
+  /* Mouse hovering over a link */
   a:hover,a:focus{
     text-decoration:underline
     }
-  a.icon:hover,a.icon:focus{
-    text-decoration:none
-    }
+  /* h3, h4, h4, h5, h6 usage ??? */
   h1,h2,h3,h4,h5,h6{
     margin-bottom:.5rem;
     font-weight:bold;
@@ -47,11 +47,13 @@ html,body{
       margin-top:1rem;
       font-size:1rem
       }
+	/* Paragraph  */
     p{
       margin-top:0;
       margin-bottom:1rem
 
       }
+	/* Code usage ?? */
     code{
       font-family:'Inconsolata',Courier,monospace;
       padding:.25em .5em;
@@ -61,6 +63,7 @@ html,body{
     code a{
       color:#c7254e
       }
+	/* Do not change */
     .container{
       max-width:40rem;
       padding-left:2rem;
@@ -74,6 +77,7 @@ html,body{
     header .title{
       margin:0
       }
+	/* Rohit Athavale header color */
     header .title a{
       color:black
       }
@@ -81,6 +85,7 @@ html,body{
       font-size:90%;
       margin-top:.5rem
       }
+	/* About / Resume / Github / Blog */
     header .nav a{
       color:#444;
       margin-left:.25rem;
@@ -115,7 +120,11 @@ html,body{
       margin:0 0 1rem
       }
     .resume .item .body{
-      margin-left:4rem
+	    margin-left:4rem;
+      color:#444;
+      }
+    .resume .item .body a{
+      color:#555;
       }
     .resume .item .body .duration{
       color:#666
