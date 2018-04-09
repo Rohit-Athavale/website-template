@@ -11,8 +11,8 @@ html,body{
     content:none;
     }
   body{
-    color:#fafaf9;
-    background-color:#B79EC1;
+    color:#2F4F4F;
+    background-color:#DCDCDC;
     }
   /* Links */
   a{
@@ -41,12 +41,12 @@ html,body{
       color:black
       }
     h3{
-      color:#e1cdfa;
+      color:#4169E1;
       margin-top:1.5rem;
       font-size:1.25rem
       }
     h4{
-      color:#f8d5c0;
+      color:#828282;
       font-size:1rem;
       }
     h5,h6{
