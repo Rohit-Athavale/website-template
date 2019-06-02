@@ -163,7 +163,8 @@ html,body{
       }
     .facts .section p{
       border: 1px solid black;
-      width: 70px;
+      width: 80px;
       overflow: hidden;
       white-space: nowrap;
+      text-overflow:ellipsis;
       }
